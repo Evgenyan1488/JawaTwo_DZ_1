@@ -73,7 +73,5 @@ public class MainClass {
                     arrS[i].cat.move(arrP[j]);
         }
 
-
-
     }
 };
